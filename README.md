@@ -1,6 +1,7 @@
 # NgDashboardOne
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
+This is my First try to Create angular Project for my Personal Portfolio. I am creating this Project while watching Youtube Lessons
 
 ## Development server
 
